@@ -1,2 +1,3 @@
 # Agroo
- farmers friendly aoo
+ farmers friendly app
+ 
